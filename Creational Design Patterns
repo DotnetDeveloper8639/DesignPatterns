@@ -1,0 +1,31 @@
+DesignPatterns:
+---------------
+In industry a design pattern is a solution for re-occuring problems.
+
+we have different types design pattern.
+1) Creational Design patterns
+2) Structural Design Patterns
+3) Behavioural Design Patterns
+
+Creational Design pattern:
+--------------------------
+It tells us how we can create a instatiation to entity or a class in real world.
+
+Under this we have 
+
+Singleton
+Factory
+Prototype
+Builder
+Abstract
+
+Factory Design Pattern:
+-----------------------
+This design pattern provides an interface to create instances in super class, and alter the type object in child classes.
+
+Signleton Design:
+----------------
+This design pattern tells that only once instance can create and access that instance thoughout the application.
+
+
+
